@@ -1,0 +1,24 @@
+@font-face {
+  font-family: "AlmarenaDisplayBold";
+  src: url('webFonts/AlmarenaDisplayBold/font.woff2') format('woff2'), url('webFonts/AlmarenaDisplayBold/font.woff') format('woff');
+}
+  
+ h1 {
+    font-family: "AlmarenaDisplayBold";
+    color: #EA543B;
+  }
+
+body {
+    font-family: "Roboto", Verdana, Geneva, Tahoma, sans-serif
+}
+
+
+.intro--days {
+  background-color: #173D36;
+}
+
+.cta {
+  color: #EA543B;
+  border-radius: 5px, 5px, 5px, 5px
+
+}
